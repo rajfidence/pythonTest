@@ -14,7 +14,7 @@ target = open(filename,'w')
 print "truncating the file..."
 target.truncate()
 
-print "we will add 3 new lines to the file"
+print "we will add 2 test new lines to the file"
 
 line1 = raw_input("Line 1: ")
 line2 = raw_input("Line 2: ")

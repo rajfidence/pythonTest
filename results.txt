@@ -1,0 +1,14 @@
+1)Your airtel Bill password for Number: 02240109239, Bill Date: 27-Dec-2016
+2)[WARNING: MESSAGE ENCRYPTED]Your airtel Bill for Number: 02240109239, Bill Date: 27-Dec-2016
+3)airtel broadband with user ID 02280416111_mh exceeds 80% of high
+ speed data usage
+4)airtel broadband with user ID 02280416111_mh exceeds 100% of high
+ speed data usage
+5)[WARNING: MESSAGE ENCRYPTED]Your airtel Bill for Number: 02240109239, Bill Date: 27-Jan-2017
+6)Your airtel Bill password for Number: 02240109239, Bill Date: 27-Jan-2017
+7)Airtel Broadband with user ID 02280416111_mh exceeds 50% of high
+ speed data usage
+8)Airtel Broadband with user ID 02280416111_mh exceeds 80% of high
+ speed data usage
+9)Airtel Broadband with user ID 02280416111_mh exceeds 100% of high
+ speed data usage
