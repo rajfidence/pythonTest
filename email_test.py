@@ -5,6 +5,8 @@ import os
 import getpass
 import email
 import datetime
+#import html2text and try with decoding the msg body
+import html2text
 from inspect import getmembers
 from pprint import pprint
 reload(sys)  
@@ -37,8 +39,6 @@ def process_mailbox(M):
         print 'Message %s: %s' % (num, subject.encode('utf-8'))
         print 'Raw Date:', msg['Date']
         print "test"
-        #msg = str(msg['Body'])[0]
-        #pprint(getmembers(msg))
         i=i+1
         global number_of_mails
         number_of_mails = i
